@@ -1,6 +1,4 @@
 import json
-from nltk.tokenize import word_tokenize
-from nltk.corpus import wordnet
 from my_paraphraser import paraphrase_sentence
 
 # Original JSON data
@@ -11,7 +9,7 @@ new_format_data = []
 
 def add_context_to_prompts(prompts):
     if "beginner" in prompts:
-        sys_content = "You are an English learning tutor. This prompt is for beginner English learners so work accordingly and be nice."
+        sys_content = "You are an English learning tutor. This prompt is for beginner English learners so use a very beginner friendly vocabulary and be nice. "
     elif "intermediate" in prompts:
         sys_content = "You are an English learning tutor. This prompt is for intermediate English learners."
     elif "advanced" in prompts:

@@ -1,6 +1,4 @@
 import json
-from nltk.tokenize import word_tokenize
-from nltk.corpus import wordnet
 from my_paraphraser import paraphrase_sentence
 
 # Original JSON data
