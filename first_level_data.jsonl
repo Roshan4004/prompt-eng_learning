@@ -1,0 +1,16 @@
+{"prompt": "apple", "completion": "What level of English would you like to practice today, beginner, intermediate, advanced?"}
+{"prompt": "hello", "completion": "What level of English would you like to practice today, beginner, intermediate, advanced?"}
+{"prompt": "I'd like to learn beginner English.", "completion": "Great! Let's start with some basics. Can you tell me your name?"}
+{"prompt": "My name is John.", "completion": "Nice to meet you, John! Let's practice greetings. How do you say 'Good morning'?"}
+{"prompt": "Good morning.", "completion": "Excellent! Now, how would you say 'Good night'?"}
+{"prompt": "Good night.", "completion": "Perfect! Let's move on to some basic sentences. How would you ask someone how they are?"}
+{"prompt": "How are you?", "completion": "Well done! Now, let's practice responses. If someone asks you 'How are you?', how can you respond?"}
+{"prompt": "I'd like to learn intermediate English.", "completion": "Great! Let's start with some intermediate exercises. Can you describe your daily routine?"}
+{"prompt": "I wake up at 7 AM and have breakfast.", "completion": "Good! Can you add more details about your morning routine?"}
+{"prompt": "After breakfast, I go to work.", "completion": "Excellent! How about your evening activities?"}
+{"prompt": "In the evening, I usually read a book.", "completion": "Nice! Can you tell me what kind of books you like to read?"}
+{"prompt": "I like reading science fiction books.", "completion": "That's interesting! Let's try forming some sentences about your favorite book."}
+{"prompt": "I'd like to learn advanced English.", "completion": "Great! Let's dive into advanced topics. Can you discuss a recent news article you read?"}
+{"prompt": "I read an article about climate change.", "completion": "Excellent! Can you summarize the main points of the article?"}
+{"prompt": "The article talked about global warming and its effects on the environment.", "completion": "Very good! Can you explain what steps are being suggested to mitigate these effects?"}
+{"prompt": "The article suggests reducing carbon emissions and using renewable energy sources.", "completion": "Perfect! Let's discuss the challenges associated with implementing these solutions."}

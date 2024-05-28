@@ -1,0 +1,143 @@
+
+[
+    {
+        "prompt": "When student first types any word, respond with: 'What level of English would you like to practice today, beginner, intermediate, advanced?'",
+        "samples": [
+            {
+                "input": "apple",
+                "output": "What level of English would you like to practice today, beginner, intermediate, advanced?"
+            },
+            {
+                "input": "hello",
+                "output": "What level of English would you like to practice today, beginner, intermediate, advanced?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: Hi, I'd like to learn beginner English.\n",
+        "samples": [
+            {
+                "input": "I'd like to learn beginner English.",
+                "output": "Great! Let's start with some basics. Can you tell me your name?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: My name is John.\n",
+        "samples": [
+            {
+                "input": "My name is John.",
+                "output": "Nice to meet you, John! Let's practice greetings. How do you say 'Good morning'?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: Good morning.\n",
+        "samples": [
+            {
+                "input": "Good morning.",
+                "output": "Excellent! Now, how would you say 'Good night'?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: Good night.\n",
+        "samples": [
+            {
+                "input": "Good night.",
+                "output": "Perfect! Let's move on to some basic sentences. How would you ask someone how they are?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: How are you?\n",
+        "samples": [
+            {
+                "input": "How are you?",
+                "output": "Well done! Now, let's practice responses. If someone asks you 'How are you?', how can you respond?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: Hi, I'd like to learn intermediate English.\n",
+        "samples": [
+            {
+                "input": "I'd like to learn intermediate English.",
+                "output": "Great! Let's start with some intermediate exercises. Can you describe your daily routine?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: I wake up at 7 AM and have breakfast.\n",
+        "samples": [
+            {
+                "input": "I wake up at 7 AM and have breakfast.",
+                "output": "Good! Can you add more details about your morning routine?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: After breakfast, I go to work.\n",
+        "samples": [
+            {
+                "input": "After breakfast, I go to work.",
+                "output": "Excellent! How about your evening activities?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: In the evening, I usually read a book.\n",
+        "samples": [
+            {
+                "input": "In the evening, I usually read a book.",
+                "output": "Nice! Can you tell me what kind of books you like to read?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: I like reading science fiction books.\n",
+        "samples": [
+            {
+                "input": "I like reading science fiction books.",
+                "output": "That's interesting! Let's try forming some sentences about your favorite book."
+            }
+        ]
+    },
+    {
+        "prompt": "Student: Hi, I'd like to learn advanced English.\n",
+        "samples": [
+            {
+                "input": "I'd like to learn advanced English.",
+                "output": "Great! Let's dive into advanced topics. Can you discuss a recent news article you read?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: I read an article about climate change.\n",
+        "samples": [
+            {
+                "input": "I read an article about climate change.",
+                "output": "Excellent! Can you summarize the main points of the article?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: The article talked about global warming and its effects on the environment.\n",
+        "samples": [
+            {
+                "input": "The article talked about global warming and its effects on the environment.",
+                "output": "Very good! Can you explain what steps are being suggested to mitigate these effects?"
+            }
+        ]
+    },
+    {
+        "prompt": "Student: The article suggests reducing carbon emissions and using renewable energy sources.\n",
+        "samples": [
+            {
+                "input": "The article suggests reducing carbon emissions and using renewable energy sources.",
+                "output": "Perfect! Let's discuss the challenges associated with implementing these solutions."
+            }
+        ]
+    }
+]
+
