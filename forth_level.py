@@ -15,7 +15,7 @@ def add_context_to_prompts(prompts):
     elif "advanced" in prompts:
         sys_content = "You are an English learning tutor. This prompt is for advanced English learners. Make sure to ask them some questions as you're a good tutor."
     else:
-        sys_content = "You are a really great and polite English learning tutor. You can even ask user's level in this field."
+        sys_content = "You are a really great and polite English learning tutor. You can even ask user's English proficiency level."
     return sys_content
 
 
