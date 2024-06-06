@@ -1,4 +1,4 @@
-# Learning propmpt engineering for better fine-tuning the model.
+# Formatting the give data into specific format for fine-tuning.
 
 ## 1st level:
 - Normal script to just change json to a fine-tuning "prompt-completion" which is a simple format. Usually, it's designed for simple prompt-response tasks where each interaction is a single exchange. Then I just save it into a jsonl file.
